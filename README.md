@@ -14,3 +14,17 @@ Finsmart is a cutting-edge financial tracking tool developed using Next.js and T
 - **Language**: TypeScript
 - **AI Integration**: OpenAI API (GPT-4)
 - **Styling**: Tailwind CSS
+
+# App Images
+
+### First Row
+<p align="center">
+  <img src="./E1" alt="Image 1" width="400" />
+  <img src="./E2" alt="Image 2" width="400" />
+</p>
+
+### Second Row
+<p align="center">
+  <img src="./E3" alt="Image 3" width="400" />
+  <img src="./E4" alt="Image 4" width="400" />
+</p>
